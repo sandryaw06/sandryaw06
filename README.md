@@ -1,7 +1,7 @@
 ## 👋 hi there! Welcome to my profile.
 - :dog: Dog mom.
 - :weight_lifting: Interested in fitness and 🌱 Healthy live.
--  🔭 Currently working on iPaSS platform.
+-  🔭 Currently working on iPaaS platform.
 -  :books: Love making SQL queries. 
 -  :brain: Continually learning new rails skills.
   
