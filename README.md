@@ -3,6 +3,6 @@
 - :weight_lifting: Interested in fitness and 🌱 Healthy live.
 -  🔭 Currently working on iPaSS platform.
 -  :books: Love making SQL queries. 
--  :brain: continually learning new rails skills.
+-  :brain: Continually learning new rails skills.
   
 💼 [LinkedIn Profile](https://www.linkedin.com/in/sandra-arango-winograd-3b5757154/)
