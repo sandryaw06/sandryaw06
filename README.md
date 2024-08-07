@@ -5,4 +5,4 @@
 -  :books: Love making SQL queries as a hobby. 
 -  :brain: continually learning new rails skills.
   
-💼 (LinkedIn Profile)[https://www.linkedin.com/in/sandra-arango-winograd-3b5757154/]
+💼 [LinkedIn Profile](https://www.linkedin.com/in/sandra-arango-winograd-3b5757154/)
