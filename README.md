@@ -1,5 +1,5 @@
 ## 👋 hi there! Welcome to my profile.
-- `:dog:` Dog mom.
+- :dog: Dog mom.
 - `:weight_lifting:` Interested in fitness and 🌱 Healthy live.
 -  🔭 Currently working on iPaSS platform.
 -  `:books:` Love making SQL queries as a hobby. 
